@@ -1,2 +1,0 @@
-# Palindrome-Checker
-Palindrome Checker
